@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @andrewcarletti
-- 🌱 I’m currently learning JavaScript, HTML, CSS
 - 📫 How to reach me andrew.carletti25@gmail.com
 
 <!---
